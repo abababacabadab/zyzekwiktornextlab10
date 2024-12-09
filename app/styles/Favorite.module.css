@@ -1,0 +1,18 @@
+.favoriteContainer {
+  padding: 50px;
+  text-align: center;
+  background-color: #ffffff; 
+  color: #333333; 
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+.favoriteContainer h1 {
+  font-size: 36px;
+  color: #333333;
+}
+
+.favoriteContainer p {
+  font-size: 20px;
+  color: #555555;
+}
